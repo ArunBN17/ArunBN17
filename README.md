@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **arunbn1117@gmail.com**
 
-- - 📫 How to reach me **9380659863**
+- 📫 How to reach me **9380659863**
 
 
 <h3 align="left">Connect with me:</h3>
