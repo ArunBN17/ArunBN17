@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arun B N</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Spring Boot and DSA and Syatem design**
+- 🌱 I’m currently learning **Spring Boot and DSA **
 
 - 📫 How to reach me **arunbn1117@gmail.com**
-
-- 📫 How to reach me **9380659863**
 
 
 <h3 align="left">Connect with me:</h3>
